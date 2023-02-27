@@ -11,4 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-![MarineGEO circle logo](https://github.com/kingsmandralph/First-Dapp/blob/main/C59_Q2_kingsman999.png)
+![Sample dapp image](https://github.com/kingsmandralph/First-Dapp/blob/main/image.png)
+![Sample dapp image](https://github.com/kingsmandralph/First-Dapp/blob/main/C59_Q2_kingsman999.png)
